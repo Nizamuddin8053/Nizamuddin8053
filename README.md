@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 # 💫 About Me:
-💻 Full Stack Developer (MERN)<br>🌱 Currently learning Machine Learning<br>🛠 Love building real-world projects<br>🤝 Open to internships & open-source contributions
+💻 Full Stack Developer (MERN)<br>🌱 <br>🛠 Love building real-world projects<br>🤝 Open to internships & open-source contributions
 
 
 ## 🌐 Socials:
