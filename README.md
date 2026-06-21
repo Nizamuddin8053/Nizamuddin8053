@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nizamuddin+Khan;Full+Stack+MERN+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nizamuddin;Full+Stack+MERN+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/nizamuddin-khan-720183218">
@@ -60,24 +60,7 @@
 
 ---
 
-## 📊 Coding Profiles & Platform Statistics
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <a href="https://leetcode.com/u/Nizamuddin8053/">
-          <img src="https://leetcard.jacoblin.cool/Nizamuddin8053?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="95%" />
-        </a>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/Nizamuddin8053">
-          <img src="https://github-readme-stats.vercel.app/api?username=Nizamuddin8053&theme=tokyonight&show_icons=true&hide_border=true" width="95%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
