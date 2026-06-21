@@ -56,29 +56,6 @@
 * 📜 **AWS Certificate** — GeeksforGeeks (2025).
 * 📜 **Generative AI Fundamentals** — Infosys (2025).
 
----
-
----
-
-
-
-<br/>
-
-<div align="center">
-  <a href="https://leetcode.com/u/Nizamuddin8053/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/nizamuddin8053?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Profile" />
-  </a>
-</div>
-
----
-
-
----
-
 ## 📈 GitHub Platform Performance
 
 <div align="center">
