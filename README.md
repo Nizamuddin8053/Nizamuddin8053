@@ -58,26 +58,41 @@
 
 ---
 
+---
+
 ## 📊 Coding Profiles & Platform Statistics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="top" width="50%">
-        <h4>⚡ LeetCode Performance</h4>
-        <a href="https://leetcode.com/Nizamuddin8053">
-          <img src="https://leetcode-stats-api.herokuapp.com/Nizamuddin8053" alt="LeetCode Stats" width="95%" />
+        <a href="https://leetcode.com/u/Nizamuddin8053/">
+          <img src="https://leetcard.jacoblin.cool/Nizamuddin8053?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="95%" />
         </a>
       </td>
       <td align="center" valign="top" width="50%">
-        <h4>💻 GeeksforGeeks Analytics</h4>
-        <a href="https://auth.geeksforgeeks.org/user/Nizamuddin8053">
-          <img src="https://gfg-stats-api.vercel.app/Nizamuddin8053?theme=tokyonight" alt="GeeksforGeeks Stats" width="95%" />
+        <a href="https://github.com/Nizamuddin8053">
+          <img src="https://github-readme-stats.vercel.app/api?username=Nizamuddin8053&theme=tokyonight&show_icons=true&hide_border=true" width="95%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Nizamuddin8053/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/nizamuddin8053?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG Profile" />
+  </a>
+</div>
+
+---
+
 
 ---
 
